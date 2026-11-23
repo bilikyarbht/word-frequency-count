@@ -1,29 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>AI Philosophy — One Paper a Day</title>
-    <description>Daily philosophy of AI reading series. Each item links to the publisher/author-hosted full text; KOReader News downloader fetches the linked page when configured with download_full_article=true.</description>
-    <link>https://github.com/bilikyarbht/word-frequency-count/tree/ai-philosophy-rss</link>
-    <atom:link href="https://raw.githubusercontent.com/bilikyarbht/word-frequency-count/ai-philosophy-rss/feed.xml" rel="self" type="application/rss+xml"/>
-    <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 00:00:00 GMT</lastBuildDate>
-    <ttl>60</ttl>
-    <item>
-      <title>Alan M. Turing (1950) — Computing Machinery and Intelligence</title>
-      <dc:creator>Alan M. Turing</dc:creator>
-      <link>https://spinchange.com/computing-machinery-and-intelligence/</link>
-      <guid isPermaLink="false">ai-philosophy-2026-11-23-turing-1950</guid>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
-      <category>A: Foundational</category>
-      <description><![CDATA[
-        <p><strong>Reading sequence:</strong> A — Foundational texts.</p>
-        <p><strong>Citation:</strong> Turing, A. M. (1950). Computing Machinery and Intelligence. <em>Mind</em> 59(236), 433–460.</p>
-        <p><strong>Why read:</strong> Turing's imitation game is a foundational proposal for discussing machine intelligence through language interaction. It is directly relevant to non-anthropocentric standards for understanding and language ability.</p>
-        <p><strong>Question:</strong> To what extent does the imitation game assume human linguistic performance as the standard for machine intelligence?</p>
-        <p><strong>Open full-text HTML:</strong> <a href="https://spinchange.com/computing-machinery-and-intelligence/">readable edition</a>.</p>
-        <p><strong>Original-layout PDF:</strong> <a href="https://www.cs.unibo.it/~nuzzoles/courses/intelligenza-artificiale/papers/Turing1950.pdf">PDF</a>.</p>
-        <p><strong>DOI:</strong> <a href="https://doi.org/10.1093/mind/LIX.236.433">10.1093/mind/LIX.236.433</a></p>
-      ]]></description>
-    </item>
-  </channel>
+<rss version="2.0">
+<channel>
+<title>AI Philosophy - One Paper a Day</title>
+<link>https://github.com/bilikyarbht/word-frequency-count/tree/ai-philosophy-rss</link>
+<description>A daily AI philosophy reading series for KOReader.</description>
+<lastBuildDate>Mon, 23 Nov 2026 00:00:00 GMT</lastBuildDate>
+<item>
+<title>Alan M. Turing (1950) - Computing Machinery and Intelligence</title>
+<link>https://spinchange.com/computing-machinery-and-intelligence/</link>
+<guid isPermaLink="false">ai-philosophy-2026-11-23-turing-1950</guid>
+<pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+<description>Turing introduces the imitation game as a way of investigating machine intelligence through linguistic behavior. Reading question: Does this approach assume human linguistic performance as the benchmark? Full text: https://spinchange.com/computing-machinery-and-intelligence/ . PDF: https://www.cs.unibo.it/~nuzzoles/courses/intelligenza-artificiale/papers/Turing1950.pdf</description>
+</item>
+<item>
+<title>RSS Setup - Read Me</title>
+<link>https://github.com/bilikyarbht/word-frequency-count/tree/ai-philosophy-rss</link>
+<guid isPermaLink="false">ai-philosophy-feed-setup-2026</guid>
+<pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+<description>This is a one-time setup notice to improve compatibility with older KOReader versions that had trouble with single-entry feeds. Every new day will contain only one new philosophy paper.</description>
+</item>
+</channel>
 </rss>
