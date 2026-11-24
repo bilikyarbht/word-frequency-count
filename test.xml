@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>KOReader RSS Compatibility Test</title>
+<link>https://github.com/bilikyarbht/word-frequency-count/tree/ai-philosophy-rss</link>
+<description>Test feed with complete original text embedded directly in RSS.</description>
+<language>en</language>
+<item>
+<title>RSS Test 1 - Language and Understanding</title>
+<link>https://github.com/bilikyarbht/word-frequency-count/tree/ai-philosophy-rss</link>
+<guid isPermaLink="false">koreader-rss-test-20261124-1</guid>
+<pubDate>Tue, 24 Nov 2026 07:25:00 GMT</pubDate>
+<description><![CDATA[<h1>Language and Understanding</h1><p>This is an original test passage for KOReader. If you can read this paragraph in an EPUB, the reader has successfully retrieved and converted the content embedded in the RSS feed without requesting the linked page.</p><p>A central question in the philosophy of artificial intelligence concerns the relationship between linguistic competence and understanding. A system may produce a coherent response to a novel question. Further inquiry concerns the capacities that support this response and the role that the response plays in a shared linguistic practice.</p><h2>Reading question</h2><p>What kinds of evidence would distinguish a stable linguistic capacity from a response that succeeds only in a particular context?</p><p>END OF TEST ARTICLE.</p>]]></description>
+</item>
+<item>
+<title>RSS Test 2 - Successful Synchronization</title>
+<link>https://github.com/bilikyarbht/word-frequency-count/tree/ai-philosophy-rss</link>
+<guid isPermaLink="false">koreader-rss-test-20261124-2</guid>
+<pubDate>Tue, 24 Nov 2026 07:24:00 GMT</pubDate>
+<description><![CDATA[<h1>Successful Synchronization</h1><p>This is the second original test entry. Its presence confirms that the feed contains multiple readable entries.</p><p>END OF SECOND TEST ARTICLE.</p>]]></description>
+</item>
+</channel>
+</rss>
